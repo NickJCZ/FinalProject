@@ -1,5 +1,5 @@
 #Pixel Crashers by Nick Czernik: 
-
+##To Download Pygame use pip and type in python3 -m pip install -U pygame --User
 ##Use w a s d to move and space to shoot regular laser and b to shoot a larger laser that does more damage.
 
 ##Your goal is to defeat the mimic boss, he cannot see you and can only sense your movements. He doesn’t directly copy your movements but has his own unique paterns to deal with them. Pay attention to the health bars at the bottom and make sure yours doesn’t go red!  The boss has double the health of your own so much sure to combo in b attacks as well to do more damage. 
